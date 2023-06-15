@@ -29,7 +29,7 @@ My Coding Portfolio made with React. Thank you for checking it out!
 ## Screenshots
 
 <img width="1330" alt="Screenshot 2023-06-14 at 9 06 09 PM" src="https://github.com/malachigamblin/Recipe-Muse/assets/118701306/b72a5928-4da6-4bc4-8da6-676cdbdb53fa">
-<img width="1330" alt="Screenshot 2023-06-14 at 9 05 46 PM" src="https://github.com/malachigamblin/Recipe-Muse/assets/118701306/50c3372c-b65c-43a3-9372-ac3661cd2109">
+<img width="1330" alt="Screenshot 2023-06-14 at 9 17 30 PM" src="https://github.com/malachigamblin/My-Coding-Portfolio/assets/118701306/11b21afc-614d-4390-9a77-4c3ff29c82d4">
 
 ## Questions
 
