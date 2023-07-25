@@ -6,9 +6,8 @@ const About = () => {
       <div className="container">
         <h2>About Me</h2>
         <p>
-          Welcome to my coding portfolio! My name is Malachi, and I am a Full
-          Stack Web Developer currently enrolled in The Ohio State University
-          Coding Boot Camp. With a lifelong passion for technology and its
+          Welcome to my coding portfolio! My name is Malachi, and I am a
+          Software Engineer. With a lifelong passion for technology and its
           potential to solve real-world problems, I am thrilled to pursue my
           dream of becoming a developer. What I find most intriguing about
           coding is its duality, allowing me to be both creative and logical at
